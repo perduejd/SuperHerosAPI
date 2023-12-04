@@ -13,9 +13,10 @@ The Superheroes API is a RESTful web service that allows users to perform CRUD (
 
 ## Technologies Used
 
+- Blazor C#
 - ASP.NET Core
 - Entity Framework Core
-- SQL Server
+- SQL Express Server
 - Swagger UI
 
 ## Setup
