@@ -23,7 +23,7 @@ The Superheroes API is a RESTful web service that allows users to perform CRUD (
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/superheroes-api.git
+   git clone https://github.com/perduejd/superheroes-api.git
    cd superheroes-api
 
    Run the application --> dotnet run
