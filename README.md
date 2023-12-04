@@ -10,8 +10,8 @@ Coming Soon:
 * Adding Villians that correspond to each Superhero!
 * Ability to add custom images for each superhero!
 * Superhero Ratings:
-- Allow users to rate superheroes.
-- Implement an average rating system for each superhero.
+* Allow users to rate superheroes.
+* Implement an average rating system for each superhero.
 
 ## Features
 
